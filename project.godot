@@ -20,6 +20,11 @@ run/main_scene="uid://uwfcduh1f75g"
 config/features=PackedStringArray("4.6", "Forward Plus")
 config/icon="uid://csqa3oh2wknhm"
 
+[display]
+
+window/size/viewport_width=1920
+window/size/viewport_height=1080
+
 [gui]
 
 theme/default_font_multichannel_signed_distance_field=true
